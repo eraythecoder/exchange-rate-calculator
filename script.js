@@ -25,7 +25,7 @@ function calculate(){
   })
 
 }
-
+// Dövizleri yer değiştirme
 function swapCurr(){
   const temp = curr_one.value;
   curr_one.value = curr_two.value;
